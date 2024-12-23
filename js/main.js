@@ -1,4 +1,4 @@
-var myData1 = "This is the DMA Status";
+var myData1 = "DMA :: Not connected";
 
 
 function DmaStatus(number)
